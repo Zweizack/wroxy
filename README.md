@@ -6,19 +6,19 @@
 
 ## Install and Usage
 
-```bash
+```
 $ git clone https://github.com/Zweizack/wroxy.git
 ```
 
-```bash
+```
 $ cd wroxy/
 ```
 
-```bash
+```
 $ chmod +x wroxy.py
 ```
 
-```bash
+```
 $ python3 wroxy.py
 ```
 
